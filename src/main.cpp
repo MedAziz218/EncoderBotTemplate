@@ -64,7 +64,7 @@ void setup(){
     setupEncoders();
 }
 
-// Loop function (empty in this case)
+// Loop function 
 unsigned int lastEncL = 0;
 unsigned int lastEncR = 0;
 void loop(){
